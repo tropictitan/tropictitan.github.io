@@ -1,3 +1,9 @@
+.container{
+	padding:0;
+}
+a,a:hover{
+	text-decoration: none;
+}
 header#logo,footer#siteFooter{
 	background-color: #ececec;
 }
@@ -14,4 +20,7 @@ header#logo,footer#siteFooter{
 .post figure{
 	margin-bottom:30px;
 	margin-top:30px;
+}
+.post figcaption{
+	font-style: italic;
 }
