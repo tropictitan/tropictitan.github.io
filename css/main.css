@@ -1,0 +1,65 @@
+/******* Default Elements Styling **********/
+body{
+    font-family:400;
+    font-family:'Open Sans',Arial,sans-serif;
+}
+
+p{
+	font-size:16px;
+	line-height: 1.7;
+	-webkit-font-smoothing:antialiased;
+}
+
+a,a:hover,a:visited,a:link,a:active{
+	text-decoration: none;
+}
+
+h2{
+    font-weight: 600;
+	margin-top:10px;
+}
+
+img{
+	margin-bottom:10px;
+}
+
+figure{
+	margin-bottom:30px;
+	margin-top:30px;
+
+}
+
+figcaption{
+	font-style: italic;
+}
+
+/******************************************/
+
+
+/******* Bootstrap Styling Cascade ************/
+
+.container{
+    max-width: 670px;
+}
+
+.jumbotron{
+	background-color: #ececec;
+	margin-bottom:0px;
+}
+
+/*********************************************/
+
+
+/******* Content Styling ************/
+
+.post,.post-thumbnail{
+	margin-top:20px;
+	margin-bottom:20px;
+}
+
+
+/*********************************************/
+
+
+
+
