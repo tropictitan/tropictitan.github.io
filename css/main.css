@@ -13,7 +13,6 @@ p{
 a,a:hover,a:visited,a:link,a:active{
 	text-decoration: none;
 	color:black;
-	border-bottom:1px dashed gainsboro;
 }
 
 h2{
@@ -54,6 +53,11 @@ figcaption{
     margin-bottom: 10px;
 }
 
+.breadcrumb li a{
+	color:grey;
+	font-weight: bold;
+}
+
 @media only screen and (min-width:700px){
 	.container img.img-responsive{
 		margin-left:-15px;
@@ -71,7 +75,11 @@ figcaption{
 	margin-bottom:20px;
 }
 
-
+.meta-content{
+	font-size:15px;
+	color:grey;
+	font-weight: bold;
+}
 /*********************************************/
 
 
