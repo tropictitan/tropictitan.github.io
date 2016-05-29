@@ -45,7 +45,7 @@ figcaption{
 .jumbotron{
 	background-color: transparent;
 	padding: 5px;
-    margin: 5px;
+    margin: 25px;
 }
 .breadcrumb{
 	background-color: transparent;
@@ -60,7 +60,7 @@ figcaption{
 
 @media only screen and (min-width:700px){
 	.container img.img-responsive{
-		margin-left:-15px;
+		margin-left:-30px;
 		max-width:700px;
 	}
 }
@@ -71,7 +71,6 @@ figcaption{
 /******* Content Styling ************/
 
 .post,.post-thumbnail{
-	margin-top:20px;
 	margin-bottom:20px;
 }
 
